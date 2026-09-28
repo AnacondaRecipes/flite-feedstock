@@ -22,6 +22,7 @@ requirements:
     - make  # [not win]
     - m2-make  # [win]
     - libtool  # [not win]
+    - git
  
 build:
   number: 1
